@@ -6,9 +6,13 @@ A simple network analysis on a mouse brain dataset.
 
 [Slide](https://docs.google.com/presentation/d/1aqxUvFG9aSi2hyIW6l3xtQtcFJmn-ZkHc8LuafH5Xnw/edit?usp=sharing&resourcekey=0-TPcVOTWPNpM9NeFthLST3g)
 
+[Video]()
+
 ## References
 
 [Dataset](http://networkrepository.com/bn-mouse-kasthuri-graph-v4.php)
+
+[Fundamentals of Brain Network Analysis](https://www.sciencedirect.com/book/9780124079083/fundamentals-of-brain-network-analysis)
 
 [The Network Data Repository with Interactive Graph Analytics and Visualization](https://www.researchgate.net/publication/321137237_The_Network_Data_Repository_with_Interactive_Graph_Analytics_and_Visualization)
 
