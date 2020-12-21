@@ -4,11 +4,11 @@ A simple network analysis on a mouse brain dataset.
 
 Margherita Pindaro **923178**
 
-[Notebook](Mouse_Brain_Network.ipynb)
+📓 [Notebook](Mouse_Brain_Network.ipynb)
 
-[Slide](https://docs.google.com/presentation/d/1aqxUvFG9aSi2hyIW6l3xtQtcFJmn-ZkHc8LuafH5Xnw/edit?usp=sharing&resourcekey=0-TPcVOTWPNpM9NeFthLST3g)
+📑 [Slide](https://docs.google.com/presentation/d/1aqxUvFG9aSi2hyIW6l3xtQtcFJmn-ZkHc8LuafH5Xnw/edit?usp=sharing&resourcekey=0-TPcVOTWPNpM9NeFthLST3g)
 
-[Video]()
+🎞️ [Registrazione]()
 
 ## References
 
