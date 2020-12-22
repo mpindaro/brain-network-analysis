@@ -1,6 +1,4 @@
-# Brain Network Analysis
-
-A simple network analysis on a mouse brain dataset.
+# Graph Theory and Brain Networks
 
 `Margherita Pindaro 923178`
 
