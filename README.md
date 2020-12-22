@@ -2,7 +2,7 @@
 
 A simple network analysis on a mouse brain dataset.
 
-`Margherita Pindaro **923178**`
+`Margherita Pindaro 923178`
 
 📓 [Notebook](Mouse_Brain_Network.ipynb)
 
@@ -11,7 +11,7 @@ A simple network analysis on a mouse brain dataset.
 🎞️ [Registrazione](https://drive.google.com/file/d/1Do2oSJVY7xwDf_oEm5Gbxibp-Tmivsw0/view?usp=sharing)
 
 
-Visualizzazione tramite Gephi delle community del dataset tramite community detection basata su modularity. Eh già, non è a forma di cervello
+Visualizzazione con Gephi delle community del dataset tramite community detection basata su modularity. Eh già, non è a forma di cervello
 ![Plot Gephi](communityDetection.png)
 
 
