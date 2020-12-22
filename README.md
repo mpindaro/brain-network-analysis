@@ -2,7 +2,7 @@
 
 A simple network analysis on a mouse brain dataset.
 
-'Margherita Pindaro **923178**'
+`Margherita Pindaro **923178**`
 
 📓 [Notebook](Mouse_Brain_Network.ipynb)
 
