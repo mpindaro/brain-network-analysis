@@ -1,4 +1,4 @@
-# Brain Network Anaysis
+# Brain Network Analysis
 
 A simple network analysis on a mouse brain dataset.
 
@@ -8,7 +8,12 @@ Margherita Pindaro **923178**
 
 📑 [Slide](https://docs.google.com/presentation/d/1aqxUvFG9aSi2hyIW6l3xtQtcFJmn-ZkHc8LuafH5Xnw/edit?usp=sharing&resourcekey=0-TPcVOTWPNpM9NeFthLST3g)
 
-🎞️ [Registrazione]()
+🎞️ [Registrazione](https://drive.google.com/file/d/1Do2oSJVY7xwDf_oEm5Gbxibp-Tmivsw0/view?usp=sharing)
+
+
+Visualizzazione delle community del dataset tramite community detection basata su modularity. Eh già, non è a forma di cervello
+![Plot Gephi](communityDetection.png)
+
 
 ## References
 
